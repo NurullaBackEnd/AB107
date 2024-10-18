@@ -21,7 +21,7 @@ public class Weapon
     }   
     public int GetRemainBulletCount()
     { 
-        int WeNeedHowMuchBullet = MagazineCapacity - CurrentBulletCount;
+        int WeNeedHowMuchBullet = MagazineCapacity -  Math.Abs(CurrentBulletCount);
         return WeNeedHowMuchBullet; 
     } 
     public void Reload()

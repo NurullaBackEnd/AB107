@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibadn\\source\\repos\\MyProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18784A79-722E-45C9-A8A5-1C6B1594B51C}|MyProject\\MyProject.csproj|c:\\users\\ibadn\\source\\repos\\myproject\\myproject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18784A79-722E-45C9-A8A5-1C6B1594B51C}|MyProject\\MyProject.csproj|solutionrelative:myproject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18784A79-722E-45C9-A8A5-1C6B1594B51C}|MyProject\\MyProject.csproj|c:\\users\\ibadn\\source\\repos\\myproject\\myproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18784A79-722E-45C9-A8A5-1C6B1594B51C}|MyProject\\MyProject.csproj|solutionrelative:myproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18784A79-722E-45C9-A8A5-1C6B1594B51C}|MyProject\\MyProject.csproj|c:\\users\\ibadn\\source\\repos\\myproject\\myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18784A79-722E-45C9-A8A5-1C6B1594B51C}|MyProject\\MyProject.csproj|solutionrelative:myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18784A79-722E-45C9-A8A5-1C6B1594B51C}|MyProject\\MyProject.csproj|c:\\users\\ibadn\\source\\repos\\myproject\\myproject\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18784A79-722E-45C9-A8A5-1C6B1594B51C}|MyProject\\MyProject.csproj|solutionrelative:myproject\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18784A79-722E-45C9-A8A5-1C6B1594B51C}|MyProject\\MyProject.csproj|c:\\users\\ibadn\\source\\repos\\myproject\\myproject\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18784A79-722E-45C9-A8A5-1C6B1594B51C}|MyProject\\MyProject.csproj|solutionrelative:myproject\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\source\\repos\\MyProject\\MyProject\\IAccount.cs",
+              "RelativeDocumentMoniker": "MyProject\\IAccount.cs",
+              "ToolTip": "C:\\Users\\ibadn\\source\\repos\\MyProject\\MyProject\\IAccount.cs",
+              "RelativeToolTip": "MyProject\\IAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:45:49.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\source\\repos\\MyProject\\MyProject\\Group.cs",
+              "RelativeDocumentMoniker": "MyProject\\Group.cs",
+              "ToolTip": "C:\\Users\\ibadn\\source\\repos\\MyProject\\MyProject\\Group.cs",
+              "RelativeToolTip": "MyProject\\Group.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA9wDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:38:53.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\source\\repos\\MyProject\\MyProject\\Student.cs",
+              "RelativeDocumentMoniker": "MyProject\\Student.cs",
+              "ToolTip": "C:\\Users\\ibadn\\source\\repos\\MyProject\\MyProject\\Student.cs",
+              "RelativeToolTip": "MyProject\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:38:26.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\source\\repos\\MyProject\\MyProject\\User.cs",
+              "RelativeDocumentMoniker": "MyProject\\User.cs",
+              "ToolTip": "C:\\Users\\ibadn\\source\\repos\\MyProject\\MyProject\\User.cs",
+              "RelativeToolTip": "MyProject\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T00:38:09.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\source\\repos\\MyProject\\MyProject\\Program.cs",
+              "RelativeDocumentMoniker": "MyProject\\Program.cs",
+              "ToolTip": "C:\\Users\\ibadn\\source\\repos\\MyProject\\MyProject\\Program.cs",
+              "RelativeToolTip": "MyProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T23:29:47.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

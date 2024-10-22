@@ -45,7 +45,7 @@
         }
     }
 
-    public Student GetStudent(int? id)
+    public Student GetStudent(int id)
     {
         if (id == null) return null;
         return Students.FirstOrDefault(s => s != null && s.Id == id);

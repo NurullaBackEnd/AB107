@@ -1,0 +1,14 @@
+C:\Users\I Novbe\source\repos\AnarBalacayevTeacherTasks\AnarBalacayevTeacherTasks\obj\Debug\net8.0\AnarBalacayevTeacherTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\AnarBalacayevTeacherTasks\AnarBalacayevTeacherTasks\obj\Debug\net8.0\AnarBalacayevTeacherTasks.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\AnarBalacayevTeacherTasks\AnarBalacayevTeacherTasks\obj\Debug\net8.0\AnarBalacayevTeacherTasks.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\AnarBalacayevTeacherTasks\AnarBalacayevTeacherTasks\obj\Debug\net8.0\AnarBalacayevTeacherTasks.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\AnarBalacayevTeacherTasks\AnarBalacayevTeacherTasks\bin\Debug\net8.0\AnarBalacayevTeacherTasks.exe
+C:\Users\I Novbe\source\repos\AnarBalacayevTeacherTasks\AnarBalacayevTeacherTasks\bin\Debug\net8.0\AnarBalacayevTeacherTasks.deps.json
+C:\Users\I Novbe\source\repos\AnarBalacayevTeacherTasks\AnarBalacayevTeacherTasks\bin\Debug\net8.0\AnarBalacayevTeacherTasks.runtimeconfig.json
+C:\Users\I Novbe\source\repos\AnarBalacayevTeacherTasks\AnarBalacayevTeacherTasks\bin\Debug\net8.0\AnarBalacayevTeacherTasks.dll
+C:\Users\I Novbe\source\repos\AnarBalacayevTeacherTasks\AnarBalacayevTeacherTasks\bin\Debug\net8.0\AnarBalacayevTeacherTasks.pdb
+C:\Users\I Novbe\source\repos\AnarBalacayevTeacherTasks\AnarBalacayevTeacherTasks\obj\Debug\net8.0\AnarBalacayevTeacherTasks.dll
+C:\Users\I Novbe\source\repos\AnarBalacayevTeacherTasks\AnarBalacayevTeacherTasks\obj\Debug\net8.0\refint\AnarBalacayevTeacherTasks.dll
+C:\Users\I Novbe\source\repos\AnarBalacayevTeacherTasks\AnarBalacayevTeacherTasks\obj\Debug\net8.0\AnarBalacayevTeacherTasks.pdb
+C:\Users\I Novbe\source\repos\AnarBalacayevTeacherTasks\AnarBalacayevTeacherTasks\obj\Debug\net8.0\AnarBalacayevTeacherTasks.genruntimeconfig.cache
+C:\Users\I Novbe\source\repos\AnarBalacayevTeacherTasks\AnarBalacayevTeacherTasks\obj\Debug\net8.0\ref\AnarBalacayevTeacherTasks.dll
